@@ -60,7 +60,7 @@ backend
 
 
 ## Author
-- [@sonukuldeep](https://github.com/elizaveta-sm)
+- [@elizaveta-sm](https://github.com/elizaveta-sm)
 
 
 ## 🛠 Skills
