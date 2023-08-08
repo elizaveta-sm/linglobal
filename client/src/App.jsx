@@ -1,4 +1,7 @@
-import { Navbar,Hero } from './components'
+import Navbar from './components/navbar/navbar.component';
+import Hero from './components/hero/hero.component';
+
+
 import './App.css'
 
 const App = () => {

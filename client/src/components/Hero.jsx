@@ -1,9 +1,9 @@
-import '../styles/HeroStyles.css'
+// import '../styles/HeroStyles.css'
 
-const Hero = () => {
-  return (
-    <div>Hero</div>
-  )
-}
+// const Hero = () => {
+//   return (
+//     <div>Hero</div>
+//   )
+// }
 
-export default Hero
+// export default Hero
