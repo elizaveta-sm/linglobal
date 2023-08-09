@@ -2,11 +2,10 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 ;
+    padding: 0;
     background: #fff;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
     padding: 0 1.3em 0 0;
-    
     
     a {
         text-decoration: none;
@@ -97,7 +96,7 @@ header {
 
 @media only screen and (max-width: 1000px) {
     header {
-        padding: 0 1.5em 0 0;
+        padding: 0 2em 0 1em;
     }
 
     header .header-right .hamburger {
@@ -143,6 +142,10 @@ header {
 }
 
 @media only screen and (min-width: 1000px) {
+    header {
+        padding: 0.2em 3em 0.2em 2em;
+    }
+
     header .header-left nav ul li a {
         position: relative;
 
