@@ -1,0 +1,36 @@
+.feature-container {
+    background-color: #fff;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 1em;
+    overflow: hidden;
+    padding: 1em;
+    row-gap: 0.4em;
+    max-width: 20em;
+
+    .feature-icon {
+        width: 4em;
+        margin-bottom: 1em;
+    }
+
+    .feature-title {
+        font-size: 1.15rem;
+    }
+
+    
+}
+
+@media only screen and (min-width: 500px) {
+    .feature-container {
+        padding: 2em;
+
+
+        .feature-title {
+            font-size: 1.25rem;
+            padding-bottom: 0.2em;
+        }
+    }
+}
